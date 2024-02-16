@@ -3,7 +3,7 @@
 
 ## Introduction
 
-BlinkYield is not just a financial mechanism; it's a thrilling and perilous journey through the digital underworld of Ethera. Users aren't just investors; they're daring adventurers, hackers, or rebels taking their fate into their own hands in a high-stakes game of digital fortune and power.
+BlinkYield is not just a protocol; it's a thrilling and perilous journey through the digital underworld of Ethera. Users aren't just investors; they're daring adventurers, hackers, or rebels taking their fate into their own hands in a high-stakes game of digital fortune and power.
 
 ## Project Overview
 
